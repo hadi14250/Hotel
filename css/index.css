@@ -1,0 +1,12 @@
+.availability-form{
+  margin-top:-50px;
+  z-index: 2;
+  position: relative;
+}
+@media screen and (max-width:575px){
+  .availability-form{
+  margin-top:25px;
+  padding:0 35px;
+  
+}
+}
